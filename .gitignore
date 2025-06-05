@@ -7,3 +7,4 @@ build/
 *.log
 __pycache__/
 coverage/
+.cache/
