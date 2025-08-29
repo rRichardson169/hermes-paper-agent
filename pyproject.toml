@@ -5,3 +5,4 @@ description = "A nightly newspaper that writes itself: an agent runs the desks, 
 requires-python = ">=3.10"
 # drop an unused branch
 # avoid re-reading the config on every call
+# guard against empty input
